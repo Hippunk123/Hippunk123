@@ -1,7 +1,5 @@
-The background color should be `#ffffff` for light mode and `#0d1117` for dark mode.
-
 ## Welcome to my Github home
-### This is where I will store all my projects for HyperionDev bootcamp
+##### This is where I will store all my projects for HyperionDev bootcamp
 
 ![This is an image](https://www.user.works/subfound/img/furniture/mugshot@1x.png)
 
