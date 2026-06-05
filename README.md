@@ -1,8 +1,6 @@
 ## Welcome to my Github home
 ##### This is where I will store all my projects for HyperionDev bootcamp
 
-![This is an image](https://www.user.works/subfound/img/furniture/mugshot@1x.png)
-
 <!--
 **Hippunk123/Hippunk123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
